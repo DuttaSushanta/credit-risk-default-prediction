@@ -2,6 +2,10 @@
 
 This repository contains all the code, data, and documents for the Credit Risk Prediction project.
 
+## Project Overview
+
+This project aims to develop machine learning models to predict loan status (default or non-default) using the Credit Risk dataset from Kaggle (https://www.kaggle.com/datasets/laotse/credit-risk-dataset). The project involves extensive exploratory data analysis (EDA), data preprocessing, and model evaluation to identify the most effective model.
+
 ## Weekly Work Plan
 
 ### Week 1: Data Understanding and Exploration
